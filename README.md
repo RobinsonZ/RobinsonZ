@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Zack!
 
-<!--
-**RobinsonZ/RobinsonZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student, programmer, maker, and occasional writer.
 
-Here are some ideas to get you started:
+* 🔥 Passionate about:
+  * 💡 Human-centric technology informed by the liberal arts
+  * 🤝 Bringing an interdisciplinary perspective to everything I create
+  * 🏛 Improving the discussion around technology issues by making complex topics more accessible
+  * 🍵 Chai lattes
+* 🎓 Studying computer science and a lot of other things at Swarthmore College
+* 🤖 Former Software Co-Manager, [FRC Team 1540 The Flaming Chickens](https://team1540.org)
+* 💬 Ask me about robotics, Java/Kotlin programming, 20th-century literary modernism, or FDM 3D printing
+* 📫 Contact me: zrobins2 [at] swarthmore [dot] edu, or [connect with me on LinkedIn](https://www.linkedin.com/in/robinsonz/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My github stats](https://github-readme-stats.vercel.app/api?username=robinsonz&include_all_commits=true&count_private=true&show_icons=true&hide=stars&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
