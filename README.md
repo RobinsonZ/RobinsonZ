@@ -8,7 +8,7 @@ I'm a software developer, system administrator, maker, and writer. Read more abo
   * 🏛 Improving the discussion around technology issues by making complex topics more accessible
   * 🍵 Chai lattes
 * 🎓 Studying computer science and a lot of other things at Swarthmore College
-* 🖥 Co-President, [Swarthmore College Computer Society](https://www.sccs.swarthmore.edu/)
+* 🖥 Co-president, [Swarthmore College Computer Society](https://www.sccs.swarthmore.edu/)
 * 🤖 Former Software Co-Manager, [FRC Team 1540 The Flaming Chickens](https://team1540.org)
 * 💬 Ask me about JVM programming, system administration, literary modernism, science communication, or FDM 3D printing
 * 📫 Contact me: Use the email address on my profile, or [connect with me on LinkedIn](https://www.linkedin.com/in/robinsonz/)
