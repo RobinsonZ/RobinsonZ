@@ -2,7 +2,7 @@ I write software (and occasionally words) to help people accomplish their goals,
 
 I'm currently on the Infrastructure team at [Arcesium](https://www.arcesium.com/), helping provide advanced data, operations, and analytics software to the financial services industry.
 
-Previously:
+_Previously:_
 * 🎓 BA, Computer Science (minors in Engineering & English Literature), [Swarthmore College](https://swarthmore.edu)
 * 💻 Internships at [Streem](https://www.streem.com/), [Polaris](https://www.polaris.com/en-us/), and [Arcesium](https://www.arcesium.com)
 * 🖥️ President, [Swarthmore College Computer Society](https://www.sccs.swarthmore.edu/)
