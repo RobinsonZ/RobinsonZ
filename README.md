@@ -8,4 +8,4 @@ _Previously:_
 * 🖥️ President, [Swarthmore College Computer Society](https://www.sccs.swarthmore.edu/)
 * 🤖 Software Manager, [FRC Team 1540 The Flaming Chickens](https://team1540.org)
 
-To contact me, use the email address on my profile, or [connect with me on LinkedIn](https://www.linkedin.com/in/robinsonz/).
+To contact me: use the email address on my profile, or [connect with me on LinkedIn](https://www.linkedin.com/in/robinsonz/).
